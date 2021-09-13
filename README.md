@@ -45,3 +45,4 @@ ResultsSummary.xls
 1. Centroids, vertebral body height, intervertebral disc height -- from Chloe
 2. Areas, volumes, masses
 3. Dice coefficient, area percentage
+
